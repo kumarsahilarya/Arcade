@@ -1,4 +1,4 @@
-Arcade Game Website is a browser-based gaming platform that brings together classic arcade-style mini games in one place. The website is designed with a clean and responsive user interface so players can enjoy quick and engaging games directly from their browser without installing any software.
+
 
 The project focuses on creating a simple and fun gaming experience while demonstrating core web development concepts such as DOM manipulation, game logic, and responsive design.
 
